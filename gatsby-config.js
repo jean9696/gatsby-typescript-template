@@ -5,7 +5,6 @@ module.exports = {
       options: {
         alias: {
           '@components': 'src/components',
-          '@layouts': 'src/layouts',
           '@pages': 'src/pages',
         },
         extensions: ['ts', 'tsx', 'js'],
