@@ -13,7 +13,7 @@
     "build:types": "apollo codegen:generate --localSchemaFile=schema.graphql --target=typescript --includes=src/**/*.tsx --tagName=graphql --addTypename types"
   },
   "dependencies": {
-    "gatsby": "^2.13.39",
+    "gatsby": "^2.17.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "styled-components": "^4.3.2"
